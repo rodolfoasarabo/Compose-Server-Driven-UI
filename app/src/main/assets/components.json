@@ -1,0 +1,20 @@
+[
+  {
+    "identifier": "TEXT",
+    "content": {
+      "label": "Texto de exemplo"
+    }
+  },
+  {
+    "identifier": "IMAGE",
+    "content": {
+      "imageUrl": ""
+    }
+  },
+  {
+    "identifier": "BUTTON",
+    "content": {
+      "label": "Texto do botão"
+    }
+  }
+]
